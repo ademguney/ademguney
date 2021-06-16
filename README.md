@@ -1,6 +1,6 @@
 ### Hi there, I'm Adem 👋
 
-- 🔭 I’m currently working on ... Near East Tech
+- 🔭 I’m currently working on ... Contractor
 - 🌱 I’m currently learning ... Vue.js, Testing
 - 👯 I’m looking to collaborate on ... Open Source projects
 - 💬 Ask me about ... Anything
