@@ -38,15 +38,6 @@ With over 9 years of experience in backend development using the .NET ecosystem,
 - 📺 YouTube: [@ademguney](https://www.youtube.com/@ademguney)  
 - 📧 Email: guneyadem63@gmail.com  
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ademguney&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ademguney&show_icons=true&locale=en" alt="Adem's GitHub stats" />
-</p>
 
 ---
 
